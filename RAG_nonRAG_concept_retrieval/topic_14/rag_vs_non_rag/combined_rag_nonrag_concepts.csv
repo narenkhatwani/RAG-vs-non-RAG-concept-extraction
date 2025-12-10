@@ -1,0 +1,41 @@
+rag_concepts,non_rag_concepts
+ionizing radiation,gamma radiation
+atomic bomb radiation exposure,alpha particle exposure
+environmental radiation exposure,beta particle exposure
+ionising radiation,neutron radiation
+radiotherapy exposure,terrestrial background radiation
+medical diagnostic radiation exposure,medical imaging radiation
+radiation dose,nuclear reactor emissions
+nuclear plant exposure,radioactive waste contamination
+nuclear fuel cycle exposure,contaminated groundwater radionuclides
+radiation exposure,stratospheric ozone depletion–related uv exposure
+dose rate,solar flare radiation
+radiosensitivity,geomagnetic storm exposure
+radiotherapy,electromagnetic hypersensitivity zones
+radiation organ dosimetry,power line electromagnetic fields
+,wireless communication rf exposure
+,radar system emissions
+,microwave tower radiation
+,airport security scanner exposure
+,cosmic background radiation
+,radon progeny inhalation
+,fallout dust inhalation
+,contaminated soil radioisotopes
+,depleted uranium exposure
+,tritium contamination
+,cesium-137 deposition
+,cobalt-60 contamination
+,thoron gas exposure
+,medical radiotherapy leakage
+,industrial radiography exposure
+,particle accelerator radiation
+,high-voltage transformer em fields
+,mri magnetic field exposure
+,extremely low frequency (elf) fields
+,ultraviolet-c disinfection lamp exposure
+,phototherapy uv exposure
+,spacecraft cosmic radiation
+,aviation altitude radiation
+,radioactive building materials
+,geothermal radiation sources
+,contaminated food chain radionuclides.

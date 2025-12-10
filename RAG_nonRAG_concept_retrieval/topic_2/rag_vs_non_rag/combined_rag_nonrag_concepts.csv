@@ -1,0 +1,95 @@
+rag_concepts,non_rag_concepts
+air pollution,diesel exhaust exposure
+water pollution,welding fume inhalation
+benzene exposure,coal dust inhalation
+particulate matter exposure,benzene vapor exposure
+arsenic contamination,lead aerosol exposure
+industrial chemical exposure,mercury vapor inhalation
+asbestos exposure,chromium mist exposure
+silica exposure,formaldehyde gas exposure
+pesticide exposure,vinyl chloride exposure
+occupational hazards,toluene solvent exposure
+environmental pollutants,styrene vapor exposure
+lead exposure,cadmium dust exposure
+poor air quality,manganese fume exposure
+secondhand smoke,hydrogen sulfide gas exposure
+exposure assessment tools,ammonia vapor exposure
+environmental exposures,ozone exposure in industrial settings
+occupational exposures,radon exposure in mines
+industrial emissions,ionizing radiation exposure
+chemical exposure monitoring,non-ionizing radiation from industrial equipment
+particulate exposure,fiberglass particulate exposure
+toxic substance exposure,polyurethane foam dust exposure
+air pollutant exposure,cement dust inhalation
+heavy metal exposure,bitumen fume exposure
+workplace hazard assessment,asphalt fume exposure
+asbestos inhalation,refractory ceramic fiber exposure
+solvent vapors,nanomaterial aerosol exposure
+metal fumes,microplastic dust exposure
+silica dust,pharmaceutical powder exposure
+pesticide handling,disinfectant aerosol exposure
+ergonomic strain,chlorine gas exposure
+factory particulate exposure,sulfur dioxide exposure
+chemical hazard monitoring,acid mist exposure
+environmental carcinogens,alkaline dust exposure
+chemical exposures,thermal stress exposure
+pollution exposure,cold stress exposure
+occupational carcinogen exposure,vibration exposure from machinery
+toxic chemical handling,repetitive motion strain
+workplace air contaminants,confined space atmosphere exposure
+hazardous substance exposure,welding arc ultraviolet radiation exposure
+industrial chemical pollution,oil mist exposure
+environmental toxin exposure,hydraulic fluid aerosol exposure
+,brake dust exposure
+,diesel particulate matter exposure
+,foundry sand dust exposure
+,flour dust exposure
+,wood dust exposure
+,textile fiber dust exposure
+,paint spray aerosol exposure
+,epoxy resin fume exposure
+,plasticizer vapor exposure
+,battery acid mist exposure
+,electroplating chemical exposure
+,degreasing solvent exposure
+,pesticide aerosol exposure
+,herbicide drift exposure
+,fungicide vapor exposure
+,fertilizer dust exposure
+,compost bioaerosol exposure
+,endotoxin exposure in agriculture
+,mycotoxin dust exposure
+,infectious bioaerosol exposure
+,laboratory chemical exposure
+,anesthetic gas exposure
+,sterilant vapor exposure
+,ethylene oxide gas exposure
+,peracetic acid vapor exposure
+,ozone disinfectant exposure
+,cryogenic liquid exposure
+,pressurized gas leak exposure
+,combustion byproduct exposure
+,thermal decomposition fume exposure
+,mechanical vibration exposure
+,metalworking fluid mist exposure
+,abrasive blasting dust exposure
+,silica sand blasting exposure
+,quarry dust exposure
+,tunneling particulate exposure
+,smelter emission exposure
+,coke oven emission exposure
+,polycyclic aromatic hydrocarbon exposure
+,dioxin exposure
+,polychlorinated biphenyl exposure
+,perfluoroalkyl substance exposure
+,flame retardant dust exposure
+,battery manufacturing exposure
+,semiconductor cleanroom chemical exposure
+,photolithography solvent exposure
+,electrostatic discharge ozone exposure
+,incinerator emission exposure
+,waste handling bioaerosol exposure
+,landfill gas exposure
+,recycling plant dust exposure
+,e-waste metal vapor exposure
+,nanofiber manufacturing exposure.
